@@ -1,9 +1,9 @@
 * { box-sizing: border-box; }
 
 .grid {
-    width: 15%;
+    width: 25%;
     height: 0px;
-    padding-bottom: 15%;
+    padding-bottom: 25%;
     float: right;
     outline: 5px solid red;
     background:url(../images/menu-button.png) no-repeat top left;
