@@ -1,0 +1,14 @@
+$pale-yellow: #EBDA8C;
+$mid-yellow:  #E3C13C;
+$dark-yellow: #D2A613;
+$dark-orange: #CA6D15;
+
+$logo-font:   Papyrus, fantasy ;
+$header-font: "American Typewriter" Times serif;
+
+header {
+    #logo {font-family: $logo-font; }
+    background: $pale-yellow;
+}
+
+h1 {font-family: $header-font; }
