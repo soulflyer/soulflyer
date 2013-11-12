@@ -1,4 +1,1 @@
-$(document).ready(function(){
-    $("#menu").click(function(){
-        $("nav").toggleClass("is-expanded");})
-});
+document.getElementById("menu").addEventListener("click", function(){document.getElementsByTagName("nav")[0].classList.toggle("is-expanded")});
