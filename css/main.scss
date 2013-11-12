@@ -12,3 +12,8 @@ header {
 }
 
 h1 {font-family: $header-font; }
+
+nav li {
+    font-family: $logo-font;
+    background: $pale-yellow;
+}

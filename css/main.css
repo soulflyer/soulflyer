@@ -5,3 +5,7 @@ header {
 
 h1 {
   font-family: "American Typewriter" Times serif; }
+
+nav li {
+  font-family: Papyrus, fantasy;
+  background: #ebda8c; }
