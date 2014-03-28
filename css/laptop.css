@@ -1,0 +1,48 @@
+body {
+  background: url(../images/DIW_4224.jpg) no-repeat;
+  background-size: 100%; }
+
+header {
+  background: none; }
+
+a.medium {
+  display: none; }
+
+nav ul li {
+  display: inline;
+  margin-right: 0%;
+  margin-left: 8%; }
+
+body {
+  margin: 0px; }
+
+nav {
+  background: none;
+  float: right;
+  width: 30%; }
+
+nav ul a {
+  text-decoration: none; }
+
+.content {
+  margin-top: 0%;
+  background: black; }
+
+.content img {
+  width: 100%; }
+
+nav ul a:visited, nav ul a:link, nav ul a:active {
+  color: #000000;
+  text-decoration: none; }
+
+header #logo {
+  background: url(../images/SoulflyerPhotos.png) no-repeat;
+  background-size: 100%;
+  width: 25%;
+  height: 300px;
+  float: left;
+  color: transparent; }
+
+#divephotos-section {
+  clear: right;
+  float: right; }
