@@ -1,9 +1,10 @@
 $mid-orange:  #CCA758;
 
-body {
-    background: url(../images/DIW_4224.jpg) no-repeat;
-    background-size: 100%;
-
+.container {
+    background: url(../images/DIW_4224.jpg) no-repeat center center;
+    background-size: 96%;
+    height: 0px;
+    padding-bottom: 65%;
 }
 
 header {
@@ -19,20 +20,25 @@ nav ul li {
     display: inline;
     margin-right: 0%;
     margin-left: 8%;
+    float: right;
 }
 
 body {
     margin: 0px;
+    background: #292929;
 }
 
 nav {
     background: none;
     float: right;
-    width: 30%;
+    margin-right: 3%;
+    width: 70%;
 }
 
 nav ul {
-
+    float: right;
+    width: 70%;
+    padding: 0px;
 }
 
 nav ul a {
@@ -60,6 +66,8 @@ header #logo {
     height: 300px;
     float: left;
     color: transparent;
+    margin-left: 2%;
+    margin-top: 1%;
 }
 
 #divephotos-section {
