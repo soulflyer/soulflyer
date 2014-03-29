@@ -1,3 +1,6 @@
+body {
+  margin: 0px; }
+
 header, nav {
   width: 100%; }
 
@@ -39,9 +42,6 @@ li {
   color: transparent;
   width: 17%;
   padding-bottom: 17%; }
-
-.container {
-  min-width: 340px; }
 
 header {
   height: 0px;

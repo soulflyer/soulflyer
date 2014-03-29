@@ -10,6 +10,10 @@ $menutop:    2%;
 $menu-item-height: $menutop +$menubottom;
 $menu-height: $menu-item-height * 3;
 
+body {
+    margin: 0px;
+}
+
 header, nav { width:100%; }
 
 ul {
@@ -57,7 +61,7 @@ li {
 
 
 .container {
-    min-width: 340px;
+
 }
 
 header {
