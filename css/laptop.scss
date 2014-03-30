@@ -1,12 +1,5 @@
 $mid-orange:  #CCA758;
 
-.container {
-    background: url(../images/DIW_4224.jpg) no-repeat center center;
-    background-size: 96%;
-    height: 0px;
-    padding-bottom: 65%;
-}
-
 header {
     background: none;
 }
@@ -46,12 +39,7 @@ nav ul a {
 }
 
 .content {
-    margin-top: 0%;
-    background: black;
-}
-
-.content img {
-    width: 100%;
+    display: none;
 }
 
 nav ul a:visited, nav ul a:link, nav ul a:active {

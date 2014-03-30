@@ -43,6 +43,9 @@ li {
   width: 17%;
   padding-bottom: 17%; }
 
+div.container {
+  background: #ebda8c; }
+
 header {
   height: 0px;
   padding-bottom: 17%; }
