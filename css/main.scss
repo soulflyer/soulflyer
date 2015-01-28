@@ -41,6 +41,9 @@ nav li a:visited, nav a:link, nav a:active {
     text-decoration: none;
 }
 
+nav li infobutton {
+    cursor: pointer;
+}
 a img {
     outline: 4px solid black;
     margin: 1%;

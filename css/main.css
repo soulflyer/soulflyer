@@ -4,10 +4,10 @@
   box-sizing: border-box; }
 
 body {
-  background: #ebda8c; }
+  background: #EBDA8C; }
 
 header {
-  background: #e3c13c; }
+  background: #E3C13C; }
   header #logo {
     font-family: Papyrus, fantasy; }
 
@@ -19,7 +19,7 @@ nav li {
   /* background: $pale-yellow; */ }
 
 nav {
-  background: #ebda8c; }
+  background: #EBDA8C; }
 
 nav a {
   text-decoration: none; }
@@ -27,6 +27,9 @@ nav a {
 nav li a:visited, nav a:link, nav a:active {
   color: #000000;
   text-decoration: none; }
+
+nav li infobutton {
+  cursor: pointer; }
 
 a img {
   outline: 4px solid black;
@@ -43,3 +46,5 @@ a img {
 
 #divephotos-section {
   display: none; }
+
+/*# sourceMappingURL=main.css.map */
