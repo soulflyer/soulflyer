@@ -4,7 +4,6 @@ header {
     background: none;
 }
 
-
 a.medium {
     display: none;
 }
@@ -12,7 +11,7 @@ a.medium {
 nav ul li {
     display: inline;
     margin-right: 0%;
-    margin-left: 8%;
+    margin-left: 6%;
     float: right;
 }
 
@@ -30,7 +29,7 @@ nav {
 
 nav ul {
     float: right;
-    width: 70%;
+    width: 100%;
     padding: 0px;
 }
 
@@ -39,7 +38,7 @@ nav ul a {
 }
 
 .content {
-    display: none;
+    /* display: none; */
 }
 
 nav ul a:visited, nav ul a:link, nav ul a:active {

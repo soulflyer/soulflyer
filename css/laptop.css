@@ -7,7 +7,7 @@ a.medium {
 nav ul li {
   display: inline;
   margin-right: 0%;
-  margin-left: 8%;
+  margin-left: 6%;
   float: right; }
 
 body {
@@ -22,14 +22,14 @@ nav {
 
 nav ul {
   float: right;
-  width: 70%;
+  width: 100%;
   padding: 0px; }
 
 nav ul a {
   text-decoration: none; }
 
 .content {
-  display: none; }
+  /* display: none; */ }
 
 nav ul a:visited, nav ul a:link, nav ul a:active {
   color: #000000;
@@ -48,3 +48,5 @@ header #logo {
 #divephotos-section {
   clear: right;
   float: right; }
+
+/*# sourceMappingURL=laptop.css.map */

@@ -44,7 +44,7 @@ li {
   padding-bottom: 17%; }
 
 div.container {
-  background: #ebda8c; }
+  background: #EBDA8C; }
 
 header {
   height: 0px;
@@ -60,10 +60,10 @@ nav {
   -webkit-transition: padding-bottom 1s; }
 
 nav.is-expanded {
-  background: #ebda8c;
+  background: #EBDA8C;
   margin: 0px;
   height: 0px;
-  padding-bottom: 39%; }
+  padding-bottom: 78%; }
 
 a.large {
   display: none; }
@@ -77,3 +77,5 @@ aside .photo-image img {
 aside .photo-description {
   width: 70%;
   margin-bottom: 6%; }
+
+/*# sourceMappingURL=phone.css.map */

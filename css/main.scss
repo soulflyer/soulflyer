@@ -21,7 +21,7 @@ header {
     background: $mid-yellow;
 }
 
-h1 , h2 {font-family: $logo-font; }
+h1 , h2, h3, h4, p {font-family: $logo-font; }
 
 nav li {
     font-family: $logo-font;
@@ -53,13 +53,4 @@ a img {
     text-align: center;
     margin-top: 2%;
     clear: both;
-}
-
-#divephotos-section.is-expanded {
-    display: block;
-    margin: 2%;
-}
-
-#divephotos-section {
-    display: none;
 }
